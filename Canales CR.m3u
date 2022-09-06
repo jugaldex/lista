@@ -1,0 +1,60 @@
+#EXTM3U
+ De Jumangis
+
+Futbol
+
+#EXTINF:-1,SP: CR: FUTV
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/28546.m3u8
+#EXTINF:-1,SP: CR: FUTV FHD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/28547.m3u8
+#EXTINF:-1,SP: CR: FUTV (MOVIL)
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/28581.m3u8
+#EXTINF:-1,CR: Tigo Sports
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/28548.m3u8
+#EXTINF:-1,CR: Tigo Sports FHD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/28549.m3u8
+#EXTINF:-1,CR: Tigo Sports OPC 3
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/32072.m3u8
+
+Canales Nacionales
+
+#EXTINF:-1,CR: Repretel 4
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104357.m3u8
+#EXTINF:-1,CR: Repretel 4 HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104358.m3u8
+#EXTINF:-1,CR: Repretel 6
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104359.m3u8
+#EXTINF:-1,CR: Repretel 6 HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104360.m3u8
+#EXTINF:-1,CR: Repretel 6 FHD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104361.m3u8
+#EXTINF:-1,CR: Teletica 7
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104362.m3u8
+#EXTINF:-1,CR: Teletica 7 HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104363.m3u8
+#EXTINF:-1,CR: Teletica 7 FHD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104364.m3u8
+#EXTINF:-1,CR: Repretel 11
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104365.m3u8
+#EXTINF:-1,CR: Repretel 11 FHD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104366.m3u8
+#EXTINF:-1,CR: Multimedios HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/104379.m3u8
+#EXTINF:-1,SP: CR: TD+  HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/110775.m3u8
+#EXTINF:-1,SP: CR: TD+ 2  HD
+http://jumangis.com:2082/live/JUGALDE09/wsnnT8REZy/110776.m3u8
+
+Externos
+
+#EXTINF:-1 Multimedios canal 8. 720p 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 Canal 14 
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 2 Repretel
+http://190.7.192.164:8004/play/s46
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 4 Repretel
+http://190.7.192.164:8002/play/s12
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 6 Repretel
+http://190.7.192.164:8002/play/s11
